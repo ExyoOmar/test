@@ -1,0 +1,7 @@
+.button-style {
+  color: grey;
+  justify-content: start;
+  display: flex;
+  text-transform: none;
+  text-align: left;
+}
